@@ -24,3 +24,5 @@ train = df[msk]
 test = df[~msk]
 
 train.price.describe()
+
+new changes
